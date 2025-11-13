@@ -1,10 +1,10 @@
-# Multi-Agent LLM for Health
+# Health_Agent_System
 
 Unified Multi-Agent Health AI System - Four-Dimensional Health Analysis
 
 ## System Overview
 
-Multi-Agent LLM for Health is a **four-dimensional health AI system** that considers:
+Health_Agent_System is a **four-dimensional health AI system** that considers:
 1. **Mental Health** - RLHF-optimized mental health support
 2. **Physical Health** - Sports injury risk prediction
 3. **Economic Health** - Economic factors affecting health
@@ -23,8 +23,8 @@ Multi-Agent LLM for Health is a **four-dimensional health AI system** that consi
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/kevinlmf/Multi-Agent-LLM-for-Health.git
-cd Multi-Agent-LLM-for-Health/Health
+git clone https://github.com/kevinlmf/Health_Agent_System
+cd Health_Agent_System
 ```
 
 ### 2. Install Dependencies
@@ -186,4 +186,4 @@ The system currently works via:
 This system is for research and educational purposes only. It should not be used for actual medical diagnosis or treatment. If you have health problems, please consult professional medical personnel. 
 
 ---
- I hope everyone can stay happy and free from anxiety, anger, or any other negative emotions — and keep healthy every single day ✨ .
+I hope everyone can stay happy and free from anxiety, anger, or any other negative emotions — and keep healthy every single day ✨ .
